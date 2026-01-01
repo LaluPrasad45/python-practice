@@ -8,6 +8,7 @@ This repository contains basic Python programs written to strengthen core progra
   - even_odd.py – checks whether a number is even or odd
   - calculator.py – simple calculator using user input
   -sum.py-adds two numbers using user inputs
+  polindrome.py-check a string/integer is polindrome or not
 - lists/
   - max_in_list.py – finds the maximum element in a list
 - strings/
